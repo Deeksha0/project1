@@ -1,4 +1,4 @@
-package com.example.dell_1.myapp3.InternalMemory;
+package com.example.dell_1.myapp3.backup;
 
 import android.content.Context;
 import android.content.Intent;
@@ -26,8 +26,6 @@ import com.example.dell_1.myapp3.R;
 
 import java.io.File;
 import java.util.ArrayList;
-
-import static com.example.dell_1.myapp3.InternalMemory.InternalStorage.selectallflag;
 
 public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAdapter.ViewHolder> {
 
@@ -107,7 +105,7 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
                 holder.myImage.setImageResource(R.drawable.folder);
             }
 
-        if(selectallflag){
+        if(InternalStorage.selectallflag){
             holder.itemView.setBackgroundColor(Color.MAGENTA);
             }
         }

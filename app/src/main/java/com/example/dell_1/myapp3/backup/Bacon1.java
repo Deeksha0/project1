@@ -1,4 +1,4 @@
-package com.example.dell_1.myapp3;
+package com.example.dell_1.myapp3.backup;
 
 import android.Manifest;
 import android.content.Intent;
@@ -9,11 +9,9 @@ import android.support.design.widget.Snackbar;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
 
-import com.example.dell_1.myapp3.InternalMemory.InternalStorage;
-import com.example.dell_1.myapp3.InternalMemory.SDCard;
+import com.example.dell_1.myapp3.R;
 
 
 public class Bacon1 extends Activity {

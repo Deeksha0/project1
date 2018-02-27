@@ -33,8 +33,7 @@
     <string name="title_activity_songplayer">Songplayer</string>
     <string name="title_activity_play_list1">PlayListActivity1</string>
     <string name="title_activity_acv">Acv</string>
-    <string name="title_activity_android_building_music_player">AndroidBuildingMusicPlayerActivity
-    </string>
+    <string name="title_activity_android_building_music_player">AndroidBuildingMusicPlayerActivity</string>
     <string name="title_activity_play_list">PlayListActivity</string>
     <string name="title_activity_media_player">MediaPlayer</string>
     <string name="title_activity_main">MainActivity</string>
