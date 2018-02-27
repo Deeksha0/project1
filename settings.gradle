@@ -1,0 +1,3 @@
+include ':app', ':sample', ':library', ':third_party:gif_decoder', ':third_party:disklrucache', ':annotation', ':testutil', ':library1', ':library2'
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApp3filemanager.iml" filepath="$PROJECT_DIR$/MyApp3filemanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third_party/disklrucache/disklrucache.iml" filepath="$PROJECT_DIR$/third_party/disklrucache/disklrucache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third_party/gif_decoder/gif_decoder.iml" filepath="$PROJECT_DIR$/third_party/gif_decoder/gif_decoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library1/library1.iml" filepath="$PROJECT_DIR$/library1/library1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library2/library2.iml" filepath="$PROJECT_DIR$/library2/library2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testutil/testutil.iml" filepath="$PROJECT_DIR$/testutil/testutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third_party/third_party.iml" filepath="$PROJECT_DIR$/third_party/third_party.iml" />
+    </modules>
+  </component>
+</project>
